@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>FastAPI Blog</title>
+    <title>BlogSpot</title>
   </head>
   <body>
     <h1>Home Page</h1>

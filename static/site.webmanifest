@@ -1,6 +1,6 @@
 {
-  "name": "FastAPI Blog",
-  "short_name": "FastAPI Blog",
+  "name": "BlogSpot",
+  "short_name": "BlogSpot",
   "description": "FastAPI Tutorial",
   "start_url": "/",
   "display": "standalone",
