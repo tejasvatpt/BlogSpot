@@ -120,17 +120,17 @@ a.article-title:focus {
   box-shadow: 0 0 0 2px var(--color-bg-content);
 }
 
-.article-metadata {
+.article-metadataa {
   padding-bottom: 0.063rem; /* 1px converted to rem */
   border-bottom: 1px solid var(--color-border-light);
 }
 
-.article-metadata a {
+.article-metadataa a {
   transition: color 0.2s ease-in-out;
 }
 
-.article-metadata a:hover,
-.article-metadata a:focus {
+.article-metadataa a:hover,
+.article-metadataa a:focus {
   color: var(--color-text-primary);
   text-decoration: none;
 }
